@@ -5839,29 +5839,6 @@
         "catchPhrase": "Centralized empowering task-force",
         "bs": "target end-to-end models"
       }
-    },
-    {
-      "id": "11",
-      "name": "f",
-      "username": "f",
-      "email": "f@g.ss",
-      "address": {
-        "street": "f",
-        "suite": "f",
-        "city": "f",
-        "zipcode": "f",
-        "geo": {
-          "lat": "f",
-          "lng": "f"
-        }
-      },
-      "phone": "44",
-      "website": "f.f",
-      "company": {
-        "name": "f",
-        "catchPhrase": "f",
-        "bs": "f"
-      }
     }
   ]
 }

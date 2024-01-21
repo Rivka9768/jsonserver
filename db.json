@@ -41043,27 +41043,27 @@
   ], "nextIds": [
     {
       "id": "users",
-      "nextId": "11"
+      "nextId": 11
     },
     {
       "id": "todos",
-      "nextId": "201"
+      "nextId": 201
     },
     {
       "id": "albums",
-      "nextId": "101"
+      "nextId": 101
     },
     {
       "id": "photos",
-      "nextId": "5001"
+      "nextId": 5001
     },
     {
       "id": "posts",
-      "nextId": "101"
+      "nextId": 101
     },
     {
       "id": "comments",
-      "nextId": "101"
+      "nextId": 101
     }
   ]
 }
